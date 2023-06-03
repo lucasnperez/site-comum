@@ -7,7 +7,7 @@
 }
 
 header{
-    min-height: 500px;
+    min-height: 470px;
     background-image: url(/assets/images/zyro-image.png) ;
     background-repeat: no-repeat;
     background-size: cover;
@@ -40,6 +40,7 @@ header{
 
 .menu{
     flex: 1;
+    margin: 20px;
 }
 
 .menu ul{
@@ -67,13 +68,14 @@ header{
     height: 400px;
     max-width: 350px;
     position: absolute;
-    bottom: 0;
-    right: 10vw;
+    bottom: 10;
+    right: 40vw;
     box-shadow: 0 0 2.2rem rgba(140, 152, 168, .125);
     border-radius: 10px;
     padding: 20px;
     color: #ffffff;
-    margin-bottom: 30px;
+    margin-bottom: 2px;
+    margin-top: 70px;
 }
 
 #register p{
