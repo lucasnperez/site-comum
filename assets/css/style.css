@@ -8,7 +8,7 @@
 
 header{
     min-height: 470px;
-    background-image: url(/assets/images/zyro-image.png) ;
+    background-image: url(../images/zyro-image.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
